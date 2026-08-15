@@ -1,0 +1,6 @@
+langchain_xai
+langchain_core
+python_dotenv
+streamlit
+langchain_community
+langserve
